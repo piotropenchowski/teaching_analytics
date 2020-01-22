@@ -1,0 +1,19 @@
+---
+layout: page
+title:  "MS Office Course I"
+date:   2020-01-22 19:33:55 +0100
+monetary_value: 2000
+product_code: ms-01
+training_area: office
+training_product: msoffice
+---
+
+## Info
+
+{{ page.title }}: <code>{{ page.monetary_value }}</code> PLN
+
+<a href="javascript:void(0)" class="button button_block">Buy Now</a>
+
+## Trainers
+
+<b>Natalia Nat</b>

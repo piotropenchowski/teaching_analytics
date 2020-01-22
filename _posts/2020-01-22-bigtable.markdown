@@ -1,0 +1,19 @@
+---
+layout: page
+title:  "Google Bigtable Course I"
+date:   2020-01-22 19:33:55 +0101
+monetary_value: 1500
+product_code: bigtable-01
+training_area: gcp
+training_product: bigtable
+---
+
+## Info
+
+{{ page.title }}: <code>{{ page.monetary_value }}</code> PLN
+
+<a href="javascript:void(0)" class="button button_block">Buy Now</a>
+
+## Trainers
+
+<b>Tomek Marian</b>
